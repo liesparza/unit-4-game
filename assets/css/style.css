@@ -1,0 +1,29 @@
+body {
+text-align: center;
+font-size:2em;
+
+}
+
+p { font-weight:500;
+color:#999;}
+h2 { font-weight: bold;}
+
+.crystals {
+ display:flex;
+ justify-content: space-around;
+font-size:4em;
+align-items: center;
+}
+
+.crystal{
+ width: 130px;
+ height: 130px;
+ 
+}
+
+#meta-score, #counter {
+    font-weight: bold;
+    color:555;
+    font-size:2em;
+ }
+ 
